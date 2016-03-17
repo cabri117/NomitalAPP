@@ -1,0 +1,66 @@
+.centerTop {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 10%;
+}
+
+
+
+.center {
+    text-align: center;
+    margin: 0 auto;
+    
+}
+
+
+.headline {
+  font-family: Calibri, "Helvetica", san-serif;
+  line-height: 1.5em;
+  color: #fafafa;
+  
+}
+
+
+
+.Terminos_Condiciones {
+
+    color: #fafafa;
+    text-align: center;
+    font-size:14px;
+    letter-spacing:1px;
+    margin-top:50px;
+    margin-bottom: 30px;
+
+}
+
+.Terminos_Condiciones:after
+{
+    content:' ';
+    display: block;
+    border: 1px solid #fafafa;
+    text-align: center;
+    margin: 0 auto;
+    width: 120px;
+}
+
+
+h2 {
+  color: #fafafa;
+  font-size: 25px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+
+.login {
+  background: #2F313D;
+  padding: 20px 30px;
+  border-radius: 5px;
+  box-shadow: 0px 1px 0px rgba(0,0,0,0.3),inset 0px 1px 0px rgba(255,255,255,0.07)
+}
+
+
+.RegisterLabel{
+    padding-top:20px;
+}
